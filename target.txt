@@ -1,1 +1,1 @@
-DOMAIN=URL
+1.prxy.us.kg=https://example.com
