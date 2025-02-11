@@ -1,1 +1,2 @@
 1.prxy.us.kg=https://example.com
+2.prxy.us.kg=https://www.youtube.com/watch?v=1kowaHlmeBc
